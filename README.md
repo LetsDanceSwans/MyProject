@@ -1,4 +1,4 @@
-# UI-автотесты главной страницы сервиса автопутешествий
+# UI-автотесты главной страницы сервиса путешествий
 
 Пет-проект по автоматизации тестирования веб-интерфейса (UI) с использованием паттерна POM
 
@@ -13,7 +13,6 @@
 * `src/test/java/.../tests` — тестовые сценарии 
 
 ## Запуск тестов
-
-git clone https://github.com/LetsDanceSwans/MyProject
-cd MyProject/Autotests
-mvn clean test
+* git clone https://github.com/LetsDanceSwans/MyProject
+* cd MyProject/Autotests
+* mvn test
