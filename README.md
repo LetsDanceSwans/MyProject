@@ -3,7 +3,7 @@
 Пет-проект по автоматизации тестирования веб-интерфейса (UI) с использованием паттерна POM
 
 ## Стек технологий
-* **Язык:** Java 7
+* **Язык:** Java 17
 * **Сборка:** Maven
 * **Тестовый фреймворк:** JUnit 5
 * **Автоматизация браузера:** Selenium WebDriver
@@ -13,6 +13,8 @@
 * `src/test/java/.../tests` — тестовые сценарии 
 
 ## Запуск тестов
-* git clone https://github.com/LetsDanceSwans/MyProject
-* cd MyProject/Autotests
-* mvn test
+```bash
+git clone https://github.com
+cd MyProject/Autotests
+mvn clean test
+```
