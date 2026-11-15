@@ -12,9 +12,11 @@
 * `src/main/java/.../pages` — Page Object классы с локаторами и методами страниц
 * `src/test/java/.../tests` — тестовые сценарии 
 
+
 ## Запуск тестов
+
 ```bash
-git clone https://github.com/LetsDanceSwans/MyProject
+git clone https://github.com//LetsDanceSwans/MyProject
 cd MyProject/Autotests
 mvn clean test
 ```
