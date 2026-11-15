@@ -1,0 +1,20 @@
+# Сборка Maven
+target/
+
+# Настройки IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Отчеты и логи тестов
+allure-results/
+allure-report/
+*.log
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+settings.json
+
