@@ -14,7 +14,7 @@
 
 ## Запуск тестов
 ```bash
-git clone https://github.com
+git clone https://github.com/LetsDanceSwans/MyProject
 cd MyProject/Autotests
 mvn clean test
 ```
